@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: a8e03e34c6d60e94990fc684630abc8a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mobilecrusher
+    100004: mobilecrusherconveyor
+    100006: mobilecrushertracks
+    400000: //RootNode
+    400002: mobilecrusher
+    400004: mobilecrusherconveyor
+    400006: mobilecrushertracks
+    2300000: mobilecrusher
+    2300002: mobilecrusherconveyor
+    2300004: mobilecrushertracks
+    3300000: mobilecrusher
+    3300002: mobilecrusherconveyor
+    3300004: mobilecrushertracks
+    4300000: mobilecrushertracks
+    4300002: mobilecrusherconveyor
+    4300004: mobilecrusher
+    6400000: mobilecrusher
+    6400002: mobilecrusherconveyor
+    6400004: mobilecrushertracks
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

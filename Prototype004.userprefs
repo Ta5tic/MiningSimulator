@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\pit2toReserve2.cs">
+    <Files>
+      <File FileName="Assets\track2path1.cs" Line="16" Column="24" />
+      <File FileName="Assets\track2path2.cs" Line="1" Column="1" />
+      <File FileName="Assets\track2path3.cs" Line="1" Column="1" />
+      <File FileName="Assets\wasteTruck.cs" Line="1" Column="1" />
+      <File FileName="Assets\pit2toReserve3.cs" Line="6" Column="1" />
+      <File FileName="Assets\reserve1Pit1.cs" Line="1" Column="1" />
+      <File FileName="Assets\pit1toCrusher.cs" Line="5" Column="1" />
+      <File FileName="Assets\pit2toCrusher.cs" Line="16" Column="34" />
+      <File FileName="Assets\pit2toReserve2.cs" Line="16" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

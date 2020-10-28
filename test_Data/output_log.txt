@@ -1,0 +1,47 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1172]
+    Renderer: ATI Radeon HD 5700 Series
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Assembly-Boo.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\Assembly-Boo.dll into Unity Child Domain
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\ICT333\Prototype004\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 3200x900 at 0,0
+No path with that name (truck1path2) exists! Are you sure you wrote it correctly?
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+No path with that name (truck1path3) exists! Are you sure you wrote it correctly?
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnityEngine.Vector3[]
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: E:\ICT333\Prototype004\test_Data\Managed\System.Core.dll (this message is harmless)
+Truck1 (UnityEngine.Transform)
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+True
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+

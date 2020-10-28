@@ -1,0 +1,216 @@
+
+    /*void buttonONE(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 24;
+        guiRatioY = screenHeight / 1080 * 855;
+
+        // Match the object selected to the texture you want to display
+        // in the psdi
+        int oneID = findTexture(obj);
+
+        switch (oneID)
+        {
+            case 1:
+                buttonONEtex = truckTex;
+                break;
+            case 2:
+                buttonONEtex = pitsTex;
+                break;
+            case 3:
+                buttonONEtex = reservesTex;
+                break;
+            case 4:
+                buttonONEtex = wasteTex;
+                break;
+            default:
+                break;
+        }
+        
+
+        // Position for first object
+        //GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object1");
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), buttonONEtex);
+        /// Proper Display for Lower GUI:
+        /// X:      24
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        /// Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonTWO(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 199;
+        guiRatioY = screenHeight / 1080 * 855;
+
+        // Match the object selected to the texture you want to display
+        // in the psdi
+        int twoID = findTexture(obj);
+
+        switch (twoID)
+        {
+            case 1:
+                buttonTWOtex = truckTex;
+                break;
+            case 2:
+                buttonTWOtex = pitsTex;
+                break;
+            case 3:
+                buttonTWOtex = reservesTex;
+                break;
+            case 4:
+                buttonTWOtex = wasteTex;
+                break;
+            default:
+                break;
+        }
+        
+        // Position for second object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), buttonTWOtex);
+        /// Proper Display for Lower GUI:
+        /// X:      199
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        /// Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonTHREE(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 374;
+
+        // Match the object selected to the texture you want to display
+        // in the psdi
+        int threeID = findTexture(obj);
+
+        switch (threeID)
+        {
+            case 1:
+                buttoneTHREEtex = truckTex;
+                break;
+            case 2:
+                buttoneTHREEtex = pitsTex;
+                break;
+            case 3:
+                buttoneTHREEtex = reservesTex;
+                break;
+            case 4:
+                buttoneTHREEtex = wasteTex;
+                break;
+            default:
+                break;
+        }
+
+        // Position for third object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), buttoneTHREEtex);
+        /// Proper Display for Lower GUI:
+        /// X:      374
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonFOUR(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 549;
+        // Position for fourth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object4");
+        /// Proper Display for Lower GUI:
+        /// X:      549
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonFIVE(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 724;
+        // Position for fifth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object5");
+        /// Proper Display for Lower GUI:
+        /// X:      724
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonSIX(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 899;
+        // Position for sixth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object6");
+        /// Proper Display for Lower GUI:
+        /// X:      899
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonSEVEN(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 1074;
+        // Position for seventh object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object7");
+        /// Proper Display for Lower GUI:
+        /// X:      1074
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonEIGHT(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 1249;
+        // Position for eigth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object8");
+        /// Proper Display for Lower GUI:
+        /// X:      1249
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonNINE(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 1424;
+        // Position for ninth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object9");
+        /// Proper Display for Lower GUI:
+        /// X:      1424
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void buttonTEN(GameObject obj)
+    {
+        guiRatioX = screenWidth / 1920 * 1599;
+        // Position for tenth object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, width, height), "Object10");
+        /// Proper Display for Lower GUI:
+        /// X:      1599
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
+
+    /*void scrollButton() /// =>
+    {
+        guiRatioX = screenWidth / 1920 * 1774;
+        // Position for scroll object
+        GUI.Button(new Rect(guiRatioX, guiRatioY, 50, height), "=>");
+        /// Proper Display for Lower GUI:
+        /// X:      1774
+        /// Y:      855
+        /// Width:  60
+        /// Height: 60
+        // Y Movement: 855 -> 1250
+    }*/
